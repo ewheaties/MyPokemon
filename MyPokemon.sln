@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPokemon", "MyPokemon\MyPokemon.csproj", "{5120B71A-9B0B-4AEC-8AF4-3393E2CB6FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeApiNet", "..\PokeApiNet\PokeApiNet\PokeApiNet.csproj", "{9125364A-7644-4328-B68A-CF4E3DADDC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5120B71A-9B0B-4AEC-8AF4-3393E2CB6FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5120B71A-9B0B-4AEC-8AF4-3393E2CB6FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5120B71A-9B0B-4AEC-8AF4-3393E2CB6FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5120B71A-9B0B-4AEC-8AF4-3393E2CB6FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9125364A-7644-4328-B68A-CF4E3DADDC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9125364A-7644-4328-B68A-CF4E3DADDC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9125364A-7644-4328-B68A-CF4E3DADDC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9125364A-7644-4328-B68A-CF4E3DADDC62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC9F3C7B-58F9-45A3-B25C-1721BDA809E5}
+	EndGlobalSection
+EndGlobal
